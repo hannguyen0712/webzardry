@@ -1,0 +1,16 @@
+{
+  "name": "phx-top-songs",
+  "version": "1.0.0",
+  "description": "Top 10 Shazam songs in Phoenix, Express + Pico",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@picocss/pico": "^2.1.1",
+    "express": "^5.2.1"
+  }
+}
